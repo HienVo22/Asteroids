@@ -1,4 +1,4 @@
-Asteroids
+**Project Overview**
 
 A very fun and simple Asteroids-style game developed using C++ and the SFML library. I got the insparation for creating this side project from recently playing the arcade version of this game at an arcade in Atlanta. (it was at Joystick Gamebar highly recommended!)
 
@@ -24,3 +24,11 @@ What I Learned
 	•	Game Development: Learned the basics of game loops, event handling, and real-time rendering.
 	•	Object-Oriented Design: Designed and organized code using classes and objects to represent game entities like the spaceship, asteroids, and bullets.
 	•	Debugging and Problem-Solving: Enhanced my ability to debug code and solve logical problems that arise during development.
+
+**How To Run the Game**
+
+Here is a link to download SFML: https://www.sfml-dev.org/download.php
+Here is the link to the page with the tutorial on how to set it up with the version you downloaded: https://www.sfml-dev.org/tutorials/2.6/
+After properly setting everything up, clone the repo and enjoy the game!
+
+
