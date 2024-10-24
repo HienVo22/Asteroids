@@ -27,8 +27,10 @@ What I Learned
 
 **How To Run the Game**
 
-Here is a link to download SFML: https://www.sfml-dev.org/download.php
+Here is a link to download SFML: https://www.sfml-dev.org/download.php 
+
 Here is the link to the page with the tutorial on how to set it up with the version you downloaded: https://www.sfml-dev.org/tutorials/2.6/
+
 After properly setting everything up, clone the repo and enjoy the game!
 
 
